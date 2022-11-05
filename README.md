@@ -1,0 +1,4 @@
+# Cup Poll
+
+![](./layout.png)
+
